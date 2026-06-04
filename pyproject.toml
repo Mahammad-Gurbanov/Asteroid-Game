@@ -1,0 +1,9 @@
+[project]
+name = "astreoids-game"
+version = "0.1.0"
+description = "Game built for creating astreoids"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "pygame==2.6.1",
+]
