@@ -11,3 +11,6 @@ wheels/
 
 # Ide settings
 .idea
+
+# Game state
+game_state.jsonl
