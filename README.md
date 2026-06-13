@@ -13,7 +13,7 @@ projects in the future.
   git clone https://github.com/Mahammad-Gurbanov/Asteroid-Game.git
   cd asteroids-game
 
-    # 3. Create virtual environment and install dependencies
+  # 3. Create virtual environment and install dependencies
   uv sync
 
   # 4. (Optional) Activate the environment
